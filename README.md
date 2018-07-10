@@ -41,4 +41,4 @@ bring up this textbox.
 
 ## Credits
 
-The gesture recognition method is based on [Vitruvius](https://github.com/LightBuzz/Vitruvius) method.
+Some parts of gesture recognition system are based on [Vitruvius](https://github.com/LightBuzz/Vitruvius) conception.
