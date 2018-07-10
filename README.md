@@ -6,6 +6,10 @@ the scene. This version is quite basic, an implementation of conditions and vari
 
 ## Installation
 Import DYA in your Visual Studio project
+
+### Dependencies
+
+NodeJS
 	
 ## Features
 ### Gesture detection
@@ -16,6 +20,10 @@ Detects a gesture and add it to a list to create the sequence.
 
 A JavaScript function converts the sequence to Scratch blocs decribed in a JSON file. The project is a .sb3 archive
 which contains the JSON file, images and sounds (sprite and scenes used).
+
+### Viewing the sequence
+
+The [scratch-vm](https://github.com/LLK/scratch-vm) is integrated to view the sequence created by the child.
 
 ### Drawing skeleton
 
@@ -30,5 +38,6 @@ bring up this textbox.
 * Anas KARDY
 * Clément DEMESLAY
 
-## License
-You are free to use these libraries in personal and commercial projects by attributing the original creator of Vitruvius. Licensed under Apache v2 License.
+## Credits
+
+The gesture recognition method is based on [Vitruvius](https://github.com/LightBuzz/Vitruvius) method.
