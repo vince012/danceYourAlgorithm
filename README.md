@@ -35,6 +35,7 @@ A gesture is dedicated to open a text box to store a variable. Further improveme
 bring up this textbox.
 
 ## Contributors
+
 * Anas KARDY
 * Clément DEMESLAY
 
