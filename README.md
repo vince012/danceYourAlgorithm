@@ -1,7 +1,7 @@
 Dance Your Algorithm (DYA) is an different approach than traditionnal tools (Scratch) to learn programming for children. DYA
 A child makes movements to create actions (ex : turn left ). These actions are  uses Kinect to detect gestures. These gestures are 
 
-![DYA(https://raw.githubusercontent.com/vince012/danceYourAlgorithm/master/position_camera.png "DYA")
+[a relative link](position_camera.png)
 
 ## Installation
 	Import DYA in your Visual Studio project	
