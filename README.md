@@ -5,9 +5,9 @@ the scene. This version is quite basic, an implementation of conditions and vari
 ![DYA](https://raw.githubusercontent.com/vince012/danceYourAlgorithm/master/position_camera.PNG)
 
 ## Installation
-	Import DYA in your Visual Studio project	
+Import DYA in your Visual Studio project
+	
 ## Features
-
 ### Gesture detection
         
 Detects a gesture and add it to a list to create the sequence.
