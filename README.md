@@ -5,8 +5,20 @@ the scene. This version is quite basic, an implementation of conditions and vari
 ![DYA](https://raw.githubusercontent.com/vince012/danceYourAlgorithm/master/position_camera.PNG)
 
 ## Installation
-Import DYA in your Visual Studio project
 
+Setting up project
+
+	Copy GPUCache, projet, web and x86 folder from DYA_dependencies.zip to DYA/WpfApp1/bin/x86/Debug
+
+	Import DYA in your Visual Studio project
+
+scratch-vm
+
+	git clone https://github.com/LLK/scratch-vm.git
+	cd scratch-vm
+	npm install
+	npm start
+	
 ### Dependencies
 
 NodeJS
