@@ -27,12 +27,12 @@ NodeJS
 ## Features
 ### Gesture detection
         
-Detects a gesture and add it to a list to create the sequence.
+Detects a gesture and adds it to a list to create the sequence.
 
 ### Creation of a Scratch projet
 
-A JavaScript function converts the sequence to Scratch blocs decribed in a JSON file. The project is a .sb3 archive
-which contains the JSON file, images and sounds (sprite and scenes used).
+A JavaScript function converts the sequence to Scratch blocks decribed in a JSON file. The project is a .sb3 archive
+which contains the JSON file, images and sounds (sprites and scenes used).
 
 ### Viewing the sequence
 
