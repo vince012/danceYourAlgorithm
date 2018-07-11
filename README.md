@@ -8,7 +8,7 @@ the scene. This version is quite basic, an implementation of conditions and vari
 
 Setting up project
 
-	Copy GPUCache, projet, web and x86 folder from DYA_dependencies.zip to DYA/WpfApp1/bin/x86/Debug
+	Copy projet, web and x86 folder from DYA_dependencies.zip to DYA/WpfApp1/bin/x86/Debug
 
 	Import DYA in your Visual Studio project
 
