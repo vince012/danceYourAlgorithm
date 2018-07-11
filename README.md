@@ -10,7 +10,8 @@ Setting up project
 
 	Copy projet, web and x86 folder from DYA_dependencies.zip to DYA/WpfApp1/bin/x86/Debug.
 
-	Import DYA in your Visual Studio project, regenerate the solution and select WpfApp1 as starting project.
+	Import DYA in your Visual Studio project, select WpfApp1 to x86 build mode and select WpfApp1 as starting project.
+	Regenerate the solution if DYA doesn't start.
 
 scratch-vm
 
