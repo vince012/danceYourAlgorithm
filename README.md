@@ -53,6 +53,7 @@ bring up this textbox.
 * Anas KARDY
 * Clément DEMESLAY
 * Ashwarya ARORA
+* Vincent RIBAUD
 
 ## Credits
 
