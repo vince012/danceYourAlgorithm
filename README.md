@@ -22,6 +22,7 @@ scratch-vm
 	
 ### Dependencies
 
+VisualStudio
 NodeJS
 	
 ## Features
@@ -51,6 +52,7 @@ bring up this textbox.
 
 * Anas KARDY
 * Clément DEMESLAY
+* Ashwarya ARORA
 
 ## Credits
 
